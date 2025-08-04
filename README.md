@@ -7,7 +7,7 @@
 
 ### 1. ติดตั้ง Flutter SDK
 หากยังไม่มี Flutter ในเครื่อง กรุณาติดตั้งจาก: [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
-ตรวจสอบว่า Flutter ถูกติดตั้งแล้ว: flutter doctor ติดตั้วตามคู่มือ
+ตรวจสอบว่า Flutter ถูกติดตั้งแล้ว: flutter doctor 
 
 ### 2. Clone โปรเจคเข้าสู่เครื่อง
 git clone https://github.com/Puntakan/MusicPlaylistApp.git
