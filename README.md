@@ -10,7 +10,7 @@
 [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
 ตรวจสอบว่า Flutter ถูกติดตั้งแล้ว: flutter doctor 
 
-### 2. Clone โปรเจคเข้าสู่เครื่อง
+### 2. Clone โปรเจคเข้าสู่เครื่อง และทำการไปยัง Folder ที่จัดเก็บ
 git clone https://github.com/Puntakan/MusicPlaylistApp.git
 
 ### 3. ดึง dependencies
