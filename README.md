@@ -1,16 +1,19 @@
+# 🚀 Flutter App Project
 # music_play_list
 
-A new Flutter project.
+---
 
-## Getting Started
+## 🛠 วิธีติดตั้งและรันโปรเจกต์
 
-This project is a starting point for a Flutter application.
+### 1. ติดตั้ง Flutter SDK
+หากยังไม่มี Flutter ในเครื่อง กรุณาติดตั้งจาก: [https://flutter.dev/docs/get-started/install](https://flutter.dev/docs/get-started/install)
+ตรวจสอบว่า Flutter ถูกติดตั้งแล้ว: flutter doctor ติดตั้วตามคู่มือ
 
-A few resources to get you started if this is your first Flutter project:
+### 2. Clone โปรเจคเข้าสู่เครื่อง
+git clone https://github.com/Puntakan/MusicPlaylistApp.git
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 3. ดึง dependencies
+flutter pub get
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 4. รันโปรเจค
+flutter run หรือสามารถเปิดใน Android Studio หรือ VS Code แล้วกดปุ่ม "Run" ได้เลย
